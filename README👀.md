@@ -8,5 +8,7 @@
 
 ### 💪Skills
 ##### Platfoms & Languages
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a> 
+<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starMinK&show_icons=true&theme=transparent)
