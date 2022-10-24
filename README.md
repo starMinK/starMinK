@@ -24,4 +24,4 @@
 
 ## 현재 진행중인 프로젝트
 <a href="https://www.notion.so/4-e6eee8e8248e45b1b14522d768b9f41d" target="_blank"><img src="https://img.shields.io/badge/사전스터디 4조-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a> 
-<a href="https://www.notion.so/e027c233c0ef49d3810ae2421d6f6110" target="_blank"><img src="https://img.shields.io/badge/-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a> 
+<a href="https://www.notion.so/e027c233c0ef49d3810ae2421d6f6110" target="_blank"><img src="https://img.shields.io/badge/콘티-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a> 
