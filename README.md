@@ -4,7 +4,6 @@
 
 ##### 👋Hi there! I'm **student who dreming Backend Engineer** using Java Spring.🍃<br/>sometimes i develop project with another language, but I prefer native.🚀
 
-##### I enjoy coding to developing what i dream.:octocat: 
-##### I hope to be Engeineer who everyone needs.🌏
+##### I enjoy coding to developing what i dream.:octocat: <br/>I hope to be Engeineer who everyone needs.🌏
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starMinK&show_icons=true&theme=transparent)
