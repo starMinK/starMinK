@@ -8,7 +8,7 @@
 
 ### 💪Skills
 ##### Platfoms & Languages
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
 <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
 <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
