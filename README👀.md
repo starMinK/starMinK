@@ -7,7 +7,7 @@
 ##### I enjoy coding to developing what i dream.:octocat:<br/>저의 취미는 제가 상상하는 것을 코딩으로 구현하는 것 입니다.:octocat:<br/><br/>I hope to be Engeineer who everyone needs.🌏<br/>저의 꿈은 사람들이 필요해 하는 개발자가 되는 것입니다.🌏
 
 ### 💪Skills 스킬
-##### Platfoms & Languages 사용 언어
+##### Platfoms & Languages 사용 언어와 플렛폼
 
 <a href="https://www.oracle.com/kr/java/" target="_blank"><img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
