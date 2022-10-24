@@ -9,7 +9,7 @@
 ### 💪Skills
 ##### Platfoms & Languages
 <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-black?style=flat-square&logo=Gradle&logoColor=#F7DF1E"/></a>
+<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
 <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
 
 
