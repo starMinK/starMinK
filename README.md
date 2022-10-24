@@ -3,6 +3,9 @@
 <a href="https://gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
 ##### 👋Hi there! I'm **junior Backend Engineer** using Java Spring.🍃   
-sometimes i develop project with another language, but I prefer native.
+##### sometimes i develop project with another language, but I prefer native.🚀
+
+##### I enjoy coding to developing what i dream.:octocat: 
+##### I hope to be Engeineer who everyone needs.🌏
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starMinK&show_icons=true&theme=transparent)
