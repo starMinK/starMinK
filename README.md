@@ -1,6 +1,6 @@
 <a href="https://tobegod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-e95220?style=flat-square&logo=Tistory&logoColor=white"/></a> 
-<a href="https://www.notion.so/4-e6eee8e8248e45b1b14522d768b9f41d" target="_blank"><img src="https://img.shields.io/badge/사전스터디 4조-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a> 
-<a href="https://gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+square&logo=Notion&logoColor=black"/></a> 
+<a href="rbals040329@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
 ##### 👋Hi there! I'm **student who dreming Backend Engineer** using Java Spring.🍃<br/>👋안녕하세요! 저는 Java Spring을 공부하고 있는 백엔드 엔지니어 지망생입니다.🍃<br/><br/>sometimes i develop project with another language, but I prefer native.🚀<br/>가끔 프로젝트를 하다가 다른 언어를 사용하기도 하지만, 저는 java를 가장 선호합니다!🚀
 
@@ -22,3 +22,6 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starMinK&show_icons=true&theme=transparent)
+
+##현재 진행중인 프로젝트
+<a href="https://www.notion.so/4-e6eee8e8248e45b1b14522d768b9f41d" target="_blank"><img src="https://img.shields.io/badge/사전스터디 4조-faf2da?style=flat-
