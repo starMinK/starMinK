@@ -9,16 +9,16 @@
 ### 💪Skills
 ##### Platfoms & Languages
 
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://www.oracle.com/kr/java/" target="_blank"><img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://namu.wiki/w/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### 📟Templates
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starMinK&show_icons=true&theme=transparent)
