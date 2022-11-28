@@ -29,6 +29,6 @@
 <a href="https://www.notion.so/4-e6eee8e8248e45b1b14522d768b9f41d" target="_blank"><img src="https://img.shields.io/badge/LoaInfo-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a> 
 <a href="https://www.notion.so/e027c233c0ef49d3810ae2421d6f6110" target="_blank"><img src="https://img.shields.io/badge/LoaInfo 콘티-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a>
 ### Hot! Dog - 명랑핫도그 메뉴 추천, 커뮤니티
--figma 콘디: https://www.figma.com/file/zo1152I3N0NCIkpLZPRHEp/Untitled?node-id=0%3A1&t=pnnM1fCBtZgh26l6-0
--excel 기획/회고: https://docs.google.com/spreadsheets/d/1DsT4xyxApQgAaqBi83PwlU4YfD2kHlH58_Zs66r4Q80/edit#gid=222246930
--youtube 실행 영상: https://youtu.be/Uliv43DGk9w
+-figma 콘디: https://www.figma.com/file/zo1152I3N0NCIkpLZPRHEp/Untitled?node-id=0%3A1&t=pnnM1fCBtZgh26l6-0 <br>
+-excel 기획/회고: https://docs.google.com/spreadsheets/d/1DsT4xyxApQgAaqBi83PwlU4YfD2kHlH58_Zs66r4Q80/edit#gid=222246930<br>
+-youtube 실행 영상: https://youtu.be/Uliv43DGk9w<br>
