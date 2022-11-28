@@ -25,10 +25,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starMinK&show_icons=true&theme=transparent)
 
-## 현재 진행중인 프로젝트
-<a href="https://www.notion.so/4-e6eee8e8248e45b1b14522d768b9f41d" target="_blank"><img src="https://img.shields.io/badge/LoaInfo-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a> 
-<a href="https://www.notion.so/e027c233c0ef49d3810ae2421d6f6110" target="_blank"><img src="https://img.shields.io/badge/LoaInfo 콘티-faf2da?style=flat-square&logo=Notion&logoColor=black"/></a>
-### Hot! Dog - 명랑핫도그 메뉴 추천, 커뮤니티
+## The path where he walked 내가 걸어온 길
+### 항해99 사전 스터디
+* notion 스터디 일지: https://www.notion.so/4-e6eee8e8248e45b1b14522d768b9f41d
+### LoaInfo - 로아 캐릭터 정보 검색 사이트
+* notion 콘디: https://www.notion.so/e027c233c0ef49d3810ae2421d6f6110
+* youtube 실행 영상: 
+* github: 
+### Hot! Dog - 명랑핫도그 메뉴 추천, 커뮤니티 사이트
 * figma 콘디: https://www.figma.com/file/zo1152I3N0NCIkpLZPRHEp/Untitled?node-id=0%3A1&t=pnnM1fCBtZgh26l6-0 <br>
 * excel 기획/회고: https://docs.google.com/spreadsheets/d/1DsT4xyxApQgAaqBi83PwlU4YfD2kHlH58_Zs66r4Q80/edit#gid=222246930<br>
 * youtube 실행 영상: https://youtu.be/Uliv43DGk9w<br>
+
