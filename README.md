@@ -43,4 +43,5 @@
 * notion 알고리즘 풀이: https://www.notion.so/10-d61103dda5224812a92362d16b3cb750
 * github: https://github.com/starMinK/Algorithm
 ### Spring 입문
-* 김영한님 spring 입문 강의 듣는중
+* ~~김영한님 spring 입문 강의 듣는중~~
+* Fastcampus 초격자 패키지 
